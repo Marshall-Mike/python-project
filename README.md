@@ -10,7 +10,6 @@ https://marshall-mike.streamlit.app - Streamlit <br>
 
 
 ### Technologies:
-*Streamlit (Web)
 * Flask (Web Engine)
 * Pandas (Calculation)
 * Plotly (Complex graphs)

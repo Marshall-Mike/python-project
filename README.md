@@ -1,15 +1,16 @@
 # PyProject
 
-Project was created by Mike
+A study on the factors of countries' happiness
 
 ## Group DSBA231-1
 
 ### Link to the project
-https://mike23.streamlit.app - Streamlit <br>
+https://marshall-mike.streamlit.app - Streamlit <br>
  - Flask
 
 
 ### Technologies:
+*Streamlit (Web)
 * Flask (Web Engine)
 * Pandas (Calculation)
 * Plotly (Complex graphs)

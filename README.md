@@ -5,7 +5,7 @@ Project was created by Mike
 ## Group DSBA231-1
 
 ### Link to the project
-(https://mike23.streamlit.app)- Streamlit <br>
+https://mike23.streamlit.app - Streamlit <br>
  - Flask
 
 
